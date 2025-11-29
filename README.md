@@ -12,7 +12,7 @@ Currently seeking a software engineering new grad role where I can tackle comple
 
 **Background:** Mechanical Engineering + Computer Science • Brazilian-American • Multilingual (English, Portuguese, Spanish, learning Japanese)
 
-[**Portfolio Site**](nicholasvasconcellos.com)
+[**Read More (Portfolio Page)**](https://nicholasvasconcellos.com)
 
 ## 🌱 Currently Working On
 
