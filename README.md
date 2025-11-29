@@ -1,12 +1,18 @@
 # Hello there, I'm Nicholas! 👋
 
-[Portfolio Webpage](nicholasvasconcellos.com)
-
 ## About Me
 
-I'm a Computer Science Master's student at the University of Florida (graduating December 2025), currently studying abroad at Kyoto University. I enjoy working on complex technical problems, and building efficient automation that solve real problems.
+Over two years of experience as  a Workfront System Administrator at Universal Destinations and Experiences, progressing from intern to full-time based on delivering impactful automations and integrations. Developed solutions using Workfront Fusion and APIs that automated workflows across marketing and sales teams, successively taking on increasing responsibility for system orchestration and supporting end users on the project management platform.
+
+While working full time, pursuing a Master's in Computer Science at the University of Florida (graduating December 2025), I am particularly interested in data structures, algorithms, and machine learning. Academic projects include implementing advanced data structures in C++, building a CNN for digit recognition, and developing a Linux file system using FUSE.
+
+I Recently left my position to carry out a study abroad program at Kyoto University through a University of Florida partnership, focusing on AI applications for game development. Actively building a 3D multiplayer game in Godot using C#, implementing physics-based mechanics and AI behavior systems.
+
+Currently seeking a software engineering new grad role where I can tackle complex, cross-disciplinary problems and contribute to meaningful, impactful work.
 
 **Background:** Mechanical Engineering + Computer Science • Brazilian-American • Multilingual (English, Portuguese, Spanish, learning Japanese)
+
+[**Portfolio Site**](nicholasvasconcellos.com)
 
 ## 🌱 Currently Working On
 
