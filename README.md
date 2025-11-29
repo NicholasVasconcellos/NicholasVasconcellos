@@ -1,6 +1,6 @@
 # Hello there, I'm Nicholas! 👋
 
-[Portfolio Webpage]([url](https://nicholasvasconcellos.github.io/Personal-Website-Page/))
+[Portfolio Webpage](https://nicholasvasconcellos.github.io/Personal-Website-Page/)
 
 ## About Me
 
