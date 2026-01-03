@@ -1,31 +1,33 @@
 # Hello there, I'm Nicholas! 👋
 
-**Background:** Mechanical Engineer from IFES Brazil (2021) • Master's in Computer Science @ University of Florida (Dec 2025)
+**Background:** MS in Computer Science @ University of Florida (Dec 2025) • Mechanical Engineering from IFES Brazil (2021)
 
-Currently searching for roles in Software Automation, System Administration, Software Engineering
+Seeking new grad Software Engineering and ML roles for 2026
 
-Brazilian-American • Multilingual (English, Portuguese, Spanish, learning Japanese) • Currently studying abroad at Kyoto University focusing on AI for game development 
+Brazilian-American • Multilingual (English, Portuguese, Spanish, Japanese) • Completed study abroad at Kyoto University  
 [**Read More (Portfolio Page)**](https://nicholasvasconcellos.com)
 
 ## 💼 Professional Experience
 
-Over Two years as Workfront System Administrator at Universal Studios, promoted from intern to full-time after delivering high-impact automations. Built Fusion workflows and API solutions for marketing and sales teams while owning system orchestration and end-user support.
+2+ years at Universal Destinations & Experiences, promoted from intern to full-time Workfront System Administrator. Built 30+ Fusion automation workflows, developed REST API integrations, and wrote JavaScript/Node.js scripts for bulk operations serving 2,000+ users across multiple countries.
 
 ## 🎓 Academic Background
 
-While working full time, I pursued a Master's in Computer Science at the University of Florida (graduating December 2025). I'm particularly interested in data structures, algorithms, and machine learning. Some featured academic projects include implementing advanced data structures in C++, building a CNN for digit recognition, and developing a Linux file system using FUSE.
+Completed MS in Computer Science at the University of Florida while working full-time. Focus areas: data structures, algorithms, and machine learning. Featured projects include advanced data structures in C++, a CNN for digit recognition, and a custom Linux file system using FUSE.
 
-## 🌱 Current Projects
+Completed study abroad at Kyoto University with coursework in AI technologies, AI behavior systems, cross-cultural engineering design, and a practical 3D application project for a 3D engines course.
 
-Left my position to complete a study abroad program at Kyoto University, focusing on AI for game development. Currently building a 3D multiplayer game in Godot/C# with physics-based mechanics and AI behavior systems.
+## 🎮 Recent Projects
+
+Led a team developing **Block O'clock**, a 3D multiplayer physics-based game in Godot/C# featuring grab/place mechanics, placement previews, custom physics systems, and split-screen multiplayer.
 
 ## 🛠️ Tech Stack
 
-**Languages:** C++, C#, JavaScript, Python
+**Languages:** Python, C++, C#, JavaScript
 
-**Frameworks & Tools:** 3D Engines, React, Robocode API, Workfront Fusion, Git
+**Frameworks & Tools:** Node.js, REST APIs, Godot, React, Workfront Fusion, Git
 
-**Interests:** Web Development, Machine Learning,Game Development, AI & Autonomous Agents Automation Systems
+**Interests:** Machine Learning, Game Development, AI & Autonomous Agents, Automation Systems
 
 ## 📫 Let's Connect
 
