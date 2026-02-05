@@ -9,17 +9,17 @@ Brazilian-American • Multilingual (English, Portuguese, Spanish, Japanese) •
 
 ## 💼 Professional Experience
 
-2+ years at Universal Destinations & Experiences, promoted from intern to full-time Workfront System Administrator. Built 30+ Fusion automation workflows, developed REST API integrations, and wrote JavaScript/Node.js scripts for bulk operations serving 2,000+ users across multiple countries.
+3 years at Universal Destinations & Experiences, promoted from intern to full-time Workfront System Administrator. Built 30+ production automation workflows,REST API integrations, JavaScript/Node.js scripts for bulk operations serving 2,000+ users across multiple countries.
 
 ## 🎓 Academic Background
 
-Completed MS in Computer Science at the University of Florida while working full-time. Focus areas: data structures, algorithms, and machine learning. Featured projects include advanced data structures in C++, a CNN for digit recognition, and a custom Linux file system using FUSE.
+Completed MS in Computer Science at the University of Florida while working full-time. Focus areas: advanced data structures, algorithms, computaional geometry, and machine learning. Workign in C++ and Python for ML. Featured projects include advanced data structures in C++, a CNN for digit recognition, and a custom Linux file system using FUSE.
 
 Completed study abroad at Kyoto University with coursework in AI technologies, AI behavior systems, cross-cultural engineering design, and a practical 3D application project for a 3D engines course.
 
 ## 🎮 Recent Projects
 
-Led a team developing **Block O'clock**, a 3D multiplayer physics-based game in Godot/C# featuring grab/place mechanics, placement previews, custom physics systems, and split-screen multiplayer.
+Led a team developing **Block O'clock**, a 3D multiplayer physics-based game in Godot with C# scripts, implementing physics system with  grab/place mechanics, placement previews, up to 4 local split screen multiplayer, custom interfaces and models.
 
 ## 🛠️ Tech Stack
 
